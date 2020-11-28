@@ -26,7 +26,7 @@ Elbow (k=4)
 ![elbow.png](elbow.png)
 
 3D PCA
-[3]()
+![3D.png](3D.png)
 
 x="TotalCoinsMined" and y="TotalCoinSupply" Scatter
-[]()
+![scatter.png](scatter.png)
