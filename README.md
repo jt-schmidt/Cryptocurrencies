@@ -19,3 +19,14 @@ Using these resources, data set provided from API to [https://www.cryptocompare.
 * [Elbow Curve](https://en.wikipedia.org/wiki/Elbow_method_(clustering))
 
 Given data set is 1253 rows
+
+Plot results produced:
+
+Elbow (k=4)
+![elbow.png](elbow.png)
+
+3D PCA
+[3]()
+
+x="TotalCoinsMined" and y="TotalCoinSupply" Scatter
+[]()
